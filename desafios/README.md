@@ -1,1 +1,3 @@
-# Descrever os desafios e acrescentar o conteúdo desenvolvido em estudo!
+# Dio Learning - Desafios
+
+### Ao longo do estudo, registrarei os desafios desenvolvidos junto a DIO
